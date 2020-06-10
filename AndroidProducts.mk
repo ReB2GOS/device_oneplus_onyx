@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lemon_onyx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lemon_onyx-userdebug
+    lemon_onyx-userdebug \
+    lemon_onyx-eng
